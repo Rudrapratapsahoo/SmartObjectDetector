@@ -1,0 +1,6 @@
+clip_name,duration_sec,total_frames,actual_unique_objects,actual_zone_entries,actual_dwell_time_sec,lighting_condition,scene_description
+clip1_normal_entry.mp4,10,300,1,1,4.2,Normal Light,Single person walks into the room, breaches restricted zone, dwells 4s, and leaves
+clip2_crowded_room.mp4,15,450,4,2,3.8,Normal Light,Two persons enter simultaneously; person 1 enters zone with backpack, person 2 stays outside
+clip3_low_light.mp4,10,300,1,1,3.0,Low Light / Night,Dim surveillance footage with person entering restricted storage area
+clip4_perimeter_walk.mp4,12,360,2,0,0.0,Normal Light,Security patrol walking alongside the restricted zone boundary without crossing into it
+demo_backup.mp4,15,450,2,1,5.5,Normal Light,Complete demo showcasing person entering zone, alert triggered, snapshot saved, and safe exit

@@ -1,0 +1,21 @@
+# Python Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Large Model Weights (Keep local, do not push to Git)
+*.pt
+models/*.pt
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# Outputs / temp snapshots
+outputs/snapshots/*.jpg

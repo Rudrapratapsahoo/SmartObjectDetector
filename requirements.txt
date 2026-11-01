@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+numpy
+supervision
+shapely
+streamlit
+pygame
+pandas
+openpyxl
+pytest
